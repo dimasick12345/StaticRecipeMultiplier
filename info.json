@@ -1,0 +1,10 @@
+{
+  "name": "StaticRecipeMultiplier",
+  "title": "Static Recipe Multiplier",
+  "author": "jackmoon",
+  "version": "0.0.1",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "description": "Increases the cost of crafting by multiplying the recipe ingredients by an integer in all recipes except those that contain any ore or raw material.",
+  "thumbnail": "thumbnail.png"
+}
